@@ -1,16 +1,47 @@
-## Hi there 👋
+```
+                    ,,,,,,,
+                .,g@@@@@@@@g,.
+             ,g@@@@@@@@@@@@@@@@g
+           ,@@@@@@@@@@@@@@@@@@@@@,
+          j@@@@@@@@@@@@@@@@@@@@@@@
+         j@@@@@@@@@@@@@@@@@@@@@@@@,
+        ]@@@@@@@@@@@@@@@@@@@@@@@@@[
+        ]@@@@@@@@@@@@@@@@@@@@@@@@@[
+        '@@@@@@@@@@@@@@@@@@@@@@@@'
+         %@@@@@@@@@@@@@@@@@@@@@@%
+          %@@@@@@@@@@@@@@@@@@@@%
+           `%@@@@@@@@@@@@@@@@%`
+             `%@@@@@@@@@@@@%`
+                `"%@@@@%"`
+```
 
-<!--
-**Dioniii/Dioniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dion@prishtina** &nbsp;----------------------------------
 
-Here are some ideas to get you started:
+- **OS:** ..................... macOS, iOS 18
+- **Uptime:** ................. 21 years
+- **Host:** ................... Indie Developer, Prishtina, Kosovo
+- **Kernel:** .................. Computer Science Graduate
+- **IDE:** ..................... Xcode, VS Code, Cursor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages.Programming:** ... Swift, Python, JavaScript
+- **Languages.Computer:** ...... HTML, CSS, JSON, YAML
+- **Languages.Real:** .......... Albanian, English
+
+- **Currently:** ............... Data Science & AI Bootcamp @ Makerspace Innovation Center Prizren
+- **Looking for:** ............. Data Analyst / AI Engineer roles
+
+**Projects** &nbsp;----------------------------------------
+
+- **PosturePal:** .............. AI-powered posture analysis, iOS
+- **AlmondAI:** ................ Food allergen & additive scanner, iOS
+
+**Contact** &nbsp;-----------------------------------------
+
+- **Email:** ................... your@email.com
+- **LinkedIn:** ................ linkedin.com/in/yourhandle
+- **GitHub:** .................. github.com/yourhandle
+
+**GitHub Stats** &nbsp;-------------------------------------
+
+- **Repos:** .... XX &nbsp;|&nbsp; **Stars:** .......... XX
+- **Commits:** .. XX &nbsp;|&nbsp; **Followers:** ....... XX
